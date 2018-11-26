@@ -1,4 +1,4 @@
-# imooc
+# [imooc](https://github.com/ppambler/imooc)
 
 这是我在[慕课网](https://www.imooc.com/)学习的一些笔记
 
